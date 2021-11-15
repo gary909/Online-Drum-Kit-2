@@ -1,0 +1,21 @@
+* {
+  margin: 20px;
+}
+
+h1 {
+  font-family: "Dela Gothic One", cursive;
+  color: #fa8126;
+}
+
+h2 {
+  font-family: "Dela Gothic One", cursive;
+  color: #4c5e75;
+}
+
+#border {
+  background-color: #e2e1d8;
+  border-left: 10px solid #9b976f;
+  border-right: 10px solid #9b976f;
+  border-top: 1px solid #9b976f;
+  border-bottom: 1px solid #9b976f;
+}
