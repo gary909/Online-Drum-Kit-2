@@ -1,4 +1,4 @@
-document.addEventListener('keydown', handleClick)
+document.addEventListener('keydown', handleClick) // listen for keypress
 
 /*
 KEYCODE INFO
