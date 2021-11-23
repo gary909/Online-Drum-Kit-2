@@ -1,1 +1,7 @@
-<audio data-key="81" src="./audio/909_Kick_Long.WAV"></audio>
+
+
+const Q = document.getElementById("Q");
+
+function handleClick(){
+    alert("You clicked me!")
+}
